@@ -78,9 +78,13 @@ class PythonDeveloper:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salmanshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="./profile/stats.svg" height="180"/>
+<img src="./profile/top-langs.svg" height="180"/>
+
+
+
+
 
 <br><br>
 
